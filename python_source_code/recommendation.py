@@ -1,7 +1,7 @@
 import random
 
 def rfunc1():
-    list1=["Faith Fiance - Tell NoBody","SZA - Love Galore (ft.Travis Scott)","Jhene Aiko - Triggered","Summer Walker - Come Thru","Frank Ocean - White Ferari","Kehlani - Everybody Business","Mariah Carey - Fantasy","Beyonce - Dangerously in love","Victoria Monet - Dive"]
+    list1=["PARTYNEXTDOOR - BELIEVE IT","SZA - Love Galore (ft.Travis Scott)","Jhene Aiko - Triggered","Summer Walker - Come Thru","Frank Ocean - White Ferari","Kehlani - Everybody Business","Mariah Carey - Fantasy","Beyonce - Dangerously in love","Victoria Monet - Dive"]
 
     var="R&B-"+list1[random.randrange(0,9)]
     return var
