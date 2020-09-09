@@ -1,0 +1,18 @@
+developer access code:
+error404
+
+ongaku.py is the main module
+
+format of saving:
+("///") is the separator
+email+"///"+username+"///"+email_reason+"///"+user's zodiac+"///"+user's personality +"///"
++zodiac music recommendation"///"+personality music recommendation+"\n"
+
+the special case of genre recemmendation test:
+
+the recommendation obtained from the genre recommendation test is 
+not saved as a checkpoint on purpose as it does not really refelect
+the purpose statement of the program.
+
+
+
